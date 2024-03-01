@@ -1,6 +1,6 @@
 import React from 'react'
 import AboutImage from '../../assets/pic.jpg'
-import cv from '../../assets/CV4.pdf'
+import cv from '../../assets/CV5.pdf'
 import {HiDownload} from 'react-icons/hi'
 import Card from '../../components/Card'
 import data from './data'
