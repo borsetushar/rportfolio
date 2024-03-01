@@ -52,8 +52,8 @@ const data = [
         image: Image5,
         title: "Portfolio (Frontend)",
         desc : "The Portfolio app is a react web application developed using Html, CSS, Javascript and React js.The purpose of this web app is to showcase my Skills along with the projects i have worked on.",
-        demo: 'https://borsetushar.github.io/react-portfolio/',
-        github: 'https://github.com/borsetushar/react-portfolio.git'
+        demo: 'https://borsetushar.github.io/rportfolio/',
+        github: 'https://github.com/borsetushar/rportfolio.git'
     },
 ]
 
