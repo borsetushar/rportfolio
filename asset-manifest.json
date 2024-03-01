@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.963b57a2.css",
+    "main.js": "/react-portfolio/static/js/main.ac1fc4b1.js",
+    "static/media/NewProf.jpg": "/react-portfolio/static/media/NewProf.0f61904b43225cdf404a.jpg",
+    "static/media/scarlet.jpg": "/react-portfolio/static/media/scarlet.064e7309598cbd09f0e3.jpg",
+    "static/media/mark.jpg": "/react-portfolio/static/media/mark.bd2e2a44064478908718.jpg",
+    "static/media/pic.jpg": "/react-portfolio/static/media/pic.e1e0cc3acee718429c8c.jpg",
+    "static/media/lapi.jpg": "/react-portfolio/static/media/lapi.fc4abffa7145d3487c6f.jpg",
+    "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.0d6c8fa43a3981ca3d11.png",
+    "static/media/resume.jpg": "/react-portfolio/static/media/resume.320e637d7e3ad19469d5.jpg",
+    "static/media/Mukesh.jpg": "/react-portfolio/static/media/Mukesh.5d07253f655702a31ae4.jpg",
+    "static/media/CV4.pdf": "/react-portfolio/static/media/CV4.dd4f055552e27288ab13.pdf",
+    "static/media/flashcard.jpg": "/react-portfolio/static/media/flashcard.23966b23c791d1da6d4e.jpg",
+    "static/media/Bill.jpg": "/react-portfolio/static/media/Bill.38f9513524ca59c509b5.jpg",
+    "static/media/reserve.png": "/react-portfolio/static/media/reserve.dbe4b5f781d641fbbb5f.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.5139eb66b02855a1c137.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.963b57a2.css.map": "/react-portfolio/static/css/main.963b57a2.css.map",
+    "main.ac1fc4b1.js.map": "/react-portfolio/static/js/main.ac1fc4b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.963b57a2.css",
+    "static/js/main.ac1fc4b1.js"
+  ]
+}
